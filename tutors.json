@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "David Mitchell",
+    "description": "David is a patient and skilled swimming instructor, dedicated to helping learners overcome any fears and challenges in the water. His approachable nature and expertise make swimming lessons enjoyable and rewarding for all his students.",
+    "imageUrl": "./images/tutor1.png"
+  },
+  {
+    "id": 2,
+    "name": "Mikey Anderson",
+    "description": "Mikey is a seasoned swimming instructor known for his motivational teaching style. His passion for water sports and dedication to individualized instruction help swimmers excel and reach their swimming aspirations.",
+    "imageUrl": "./images/tutor2.png"
+  },
+  {
+    "id": 3,
+    "name": "Alex Foster",
+    "description": "Alex is a dynamic swimming instructor with a keen eye for detail. His coaching emphasizes stroke perfection and efficiency, empowering swimmers to achieve their goals and reach their full potential in the water.",
+    "imageUrl": "./images/tutor3.png"
+  },
+  {
+    "id": 4,
+    "name": "Nicholas Daves",
+    "description": "Nicholas is a dedicated swimming instructor with a background in competitive swimming. He leverages his expertise to teach advanced techniques and instill discipline, fostering a sense of determination and achievement in his students.",
+    "imageUrl": "./images/tutor4.png"
+  },
+  {
+    "id": 5,
+    "name": "Emily Henderson",
+    "description": "Emily is a passionate swimming instructor known for her patient and encouraging teaching style. With years of experience, she has honed her skills to make swimming lessons enjoyable and effective for learners of all ages.",
+    "imageUrl": "./images/tutor5.png"
+  },
+  {
+    "id": 6,
+    "name": "Lauren Carter",
+    "description": "Lauren is a nurturing and experienced swimming instructor who prioritizes creating a positive and engaging learning environment. Her patience and understanding of each student's unique needs foster a love for swimming in learners.",
+    "imageUrl": "./images/tutor6.png"
+  },
+  {
+    "id": 7,
+    "name": "Sarah Brooks",
+    "description": "Sarah is a passionate swimming instructor with a focus on personalized instruction. She believes in tailoring lessons to suit each swimmer's abilities, helping them progress and become competent and confident swimmers.",
+    "imageUrl": "./images/tutor7.png"
+  },
+  {
+    "id": 8,
+    "name": "Ryan Morales",
+    "description": "Ryan an experienced swimming instructor, brings enthusiasm and expertise to every lesson. His focus on technique and water safety empowers his students to become confident and skilled swimmers, making learning a delightful journey.",
+    "imageUrl": "./images/tutor8.png"
+  }
+]
